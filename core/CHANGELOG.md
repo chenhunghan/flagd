@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.3](https://github.com/open-feature/flagd/compare/core/v0.7.2...core/v0.7.3) (2023-12-07)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update golang.org/x/exp digest to 6522937 ([#1032](https://github.com/open-feature/flagd/issues/1032)) ([78b23d2](https://github.com/open-feature/flagd/commit/78b23d25fcd2ea49675fc96963565afbdf0acf25))
+* **deps:** update module github.com/open-feature/open-feature-operator to v0.5.2 ([#1059](https://github.com/open-feature/flagd/issues/1059)) ([cefea3e](https://github.com/open-feature/flagd/commit/cefea3ee035726940ee5ac51e8f7fc92cc0eeac3))
+
+
+### 🧹 Chore
+
+* refactoring component structure ([#1044](https://github.com/open-feature/flagd/issues/1044)) ([0c7f78a](https://github.com/open-feature/flagd/commit/0c7f78a95fa4ad2a8b2afe2f6023b9c6d4fd48ed))
+
 ## [0.7.2](https://github.com/open-feature/flagd/compare/core/v0.7.1...core/v0.7.2) (2023-12-05)
 
 

@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.3.3](https://github.com/open-feature/flagd/compare/flagd-proxy/v0.3.2...flagd-proxy/v0.3.3) (2023-12-07)
+
+
+### 🐛 Bug Fixes
+
+* **deps:** update module github.com/open-feature/flagd/core to v0.7.2 ([#1056](https://github.com/open-feature/flagd/issues/1056)) ([81e83ea](https://github.com/open-feature/flagd/commit/81e83ea0a4aa78d853ea7700cb06bb2a0f329619))
+* **deps:** update module github.com/spf13/viper to v1.18.0 ([#1060](https://github.com/open-feature/flagd/issues/1060)) ([9dfa689](https://github.com/open-feature/flagd/commit/9dfa6899ed3a25a5c34f8b0ebd152b01b1097dec))
+
+
+### 🧹 Chore
+
+* refactoring component structure ([#1044](https://github.com/open-feature/flagd/issues/1044)) ([0c7f78a](https://github.com/open-feature/flagd/commit/0c7f78a95fa4ad2a8b2afe2f6023b9c6d4fd48ed))
+
 ## [0.3.2](https://github.com/open-feature/flagd/compare/flagd-proxy/v0.3.1...flagd-proxy/v0.3.2) (2023-12-05)
 
 

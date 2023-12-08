@@ -7,7 +7,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13
 	github.com/open-feature/flagd/core v0.7.2
 	github.com/spf13/cobra v1.8.0
-	github.com/spf13/viper v1.18.0
+	github.com/spf13/viper v1.18.1
 	go.uber.org/zap v1.26.0
 )
 
